@@ -1,8 +1,8 @@
 {
   "name": "mui-react-redux-boilerplate",
-  "version": "0.1.1",
+  "version": "0.0.3",
   "private": true,
-  "url": "https://default.com",
+  "url": "https://dainty-cocada-445104.netlify.app",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",

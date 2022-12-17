@@ -116,6 +116,8 @@ const Nav = ({
           className={classes.closeButton}
           style={{ left: navWidth + 16 }}
           onClick={setOpen}
+          aria-label="close sidebar" 
+          component="label"
         >
           {collapsedIcon.inactive}
         </IconButton>
